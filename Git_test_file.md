@@ -1,2 +1,8 @@
 # Guidelines for working with Git
-**git add** - adds a change in the working directory (this is how the file now looks to your enxt commit). 
+**git add** 
+- adds a change in the working directory (this is how the file now looks to your next commit).  
+- *example:* git add file_name
+
+**git commit** 
+- saves all staged changes with a brief description from a user. 
+- *example:* git commit -m "your comment here"
