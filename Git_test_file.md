@@ -17,5 +17,5 @@
 * shows differences between the current state and the committed version of the file 
 
 **git checkout**
-* allows to jump from one committed version to another
+* allows to jump from one committed version to another (and between the branches)
 * *example:* git checkout branch_name
