@@ -36,7 +36,7 @@
 * creates a new branch 
 
 ## _List of commands_
-* git init
+*  git init
 * git add
 * git commit
 * git diff
