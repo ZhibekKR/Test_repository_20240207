@@ -22,3 +22,5 @@
 * *example:* git checkout branch_name
 
 ## Lesson 2
+**git branch** 
+* displays available branches
