@@ -28,5 +28,5 @@
 **git branch** 
 * displays available branches
 
-
-
+**git branch new_branch_name**
+* creates a new branch 
