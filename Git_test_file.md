@@ -21,10 +21,12 @@
 * allows to jump from one committed version to another (and between the branches)
 * *example:* git checkout branch_name
 
+**git status**
+* shows the current status of the working directory and the staging area (команда, вызывающая блок информации по состоянию репозитория)
+
 ## Lesson 2
 **git branch** 
 * displays available branches
 
-**git status**
-* shows the current status of the working directory and the staging area (команда, вызывающая блок информации по состоянию репозитория)
+
 
