@@ -4,6 +4,7 @@
 ## Lesson 1
 **git init**
 * creates a new git repository
+* needs to be used for every new project
 
 **git add** 
 * adds a change in the working directory (this is how the file now looks to your next commit). 
