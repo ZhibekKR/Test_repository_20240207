@@ -1,6 +1,7 @@
 # Guidelines for working with Git
 ## Basic git commands
 
+## Lesson 1
 **git add** 
 * adds a change in the working directory (this is how the file now looks to your next commit). 
 * добавление отслеживаемости и контроля версии этих файлов 
@@ -19,3 +20,5 @@
 **git checkout**
 * allows to jump from one committed version to another (and between the branches)
 * *example:* git checkout branch_name
+
+## Lesson 2
