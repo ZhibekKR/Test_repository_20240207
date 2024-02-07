@@ -32,3 +32,12 @@
 * creates a new branch 
 
 ## _List of commands_
+* git init
+* git add
+* git commit
+* git diff
+* git status
+* git branch
+* git branch new_branch_name
+* git log
+* git checkout 
